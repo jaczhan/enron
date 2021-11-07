@@ -1,0 +1,6 @@
+pandas
+gensim==3.8.3
+spacy
+pyldavis
+nltk
+matplotlib
